@@ -8,7 +8,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/JasminaPZ/Customer_Segmentation_Project?style=social)
 
 
-
 This project uses the [Online Retail UCI Machine Learning Repository dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) to perform customer segmentation. It demonstrates the full data pipeline, including preprocessing, feature engineering, clustering, and evaluation.
 
 ## Project Structure   
