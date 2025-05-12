@@ -10,3 +10,27 @@ This project uses the [Online Retail UCI Machine Learning Repository dataset](ht
 
 ## Project Structure
 
+Customer_Segmentation_Project/
+│
+├── README.md
+├── .gitignore
+│
+├── data/
+│ └── Online_Retail_UCI.csv
+│
+├── notebooks/
+│ └── Customer_Segmentation_Analysis.ipynb
+│
+├── src/
+│ ├── data_preprocessing.py
+│ ├── feature_engineering.py
+│ ├── clustering.py
+│ └── evaluation.py
+│
+└── images/
+├── elbow_plot.png
+├── dendrogram.png
+├── tsne_plot.png
+└── pca_clusters.png
+
+
