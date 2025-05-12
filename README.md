@@ -33,4 +33,41 @@ Customer_Segmentation_Project/
 ├── tsne_plot.png      
 └── pca_clusters.png        
 
+## Getting Started
 
+To run this project locally, follow these steps:
+
+## Clone the repository
+
+```bash
+git clone https://github.com/JasminaPZ/Customer_Segmentation_Project.git
+cd Customer_Segmentation_Project  
+
+## Create a virtual environment (recommended)**
+
+```bash
+python -m venv venv
+source venv/bin/activate         # For Mac/Linux
+venv\Scripts\activate.bat        # For Windows
+
+### **Install the required packages**
+
+```bash
+pip install -r requirements.txt
+
+### **Run the Jupyter notebook**
+
+Make sure you have Jupyter Notebook installed. Then, run:
+
+```bash
+jupyter notebook notebooks/Customer_Segmentation_Analysis.ipynb
+
+### **Running the Python scripts (optional)**
+
+You can also run the Python scripts in the **src/** directory:
+
+```bash
+python src/data_preprocessing.py
+python src/feature_engineering.py
+python src/clustering.py
+python src/evaluation.py
