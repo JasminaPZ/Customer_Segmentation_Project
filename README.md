@@ -8,12 +8,12 @@
 
 This project uses the [Online Retail UCI Machine Learning Repository dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) to perform customer segmentation. It demonstrates the full data pipeline, including preprocessing, feature engineering, clustering, and evaluation.
 
-## Project Structure
+## Project Structure   
 
-Customer_Segmentation_Project/
+Customer_Segmentation_Project/    
 │
-├── README.md
-├── .gitignore
+├── README.md    
+├── .gitignore    
 │
 ├── data/
 │ └── Online_Retail_UCI.csv
